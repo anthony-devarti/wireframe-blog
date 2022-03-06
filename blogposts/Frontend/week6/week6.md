@@ -17,4 +17,4 @@ A good developer is one that is never content with their current skill level.  T
 
 ## What is one thing that programmers hate doing?
 
-Repeating themselves, repeating themselves, repeating themselves.
+Repeating themselves, repeating themselves, repeating themselves.  (I'm immune to this because I'm not quite there, yet) Repeating yourself in code doesn't just mean that you have to type more on the first time around, but what happens when you want to adjust a line of code later?  If you've repeated that code 4 times, that means that you have to apply that fix 4 times. If your update doesn't work as expected, and you want to adjust, you have to do that same adjustment 4 times.  Repetition makes your code less readable, harder to refactor, and take longer to produce.  
