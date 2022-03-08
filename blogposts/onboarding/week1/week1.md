@@ -1,7 +1,8 @@
 # anthony-devarti.github.io
 My Coding Bootcamp Journey
 # My First Blog Post
-<p>Here we are, well into the first week of bootcamp and I'd like to share a bit of my experience so far. </p>
+Here we are, well into the first week of bootcamp and I'd like to share a bit of my experience so far.
+
 ### Was your first week what you expected? Why? Why not?
 The content of week 1 definitely differed from my expectations quite a bit. This course seems like it's not only covering _material_ that is pretty foreign to me, but also a learning and progression method that's novel to me as well.  The unfamilarity with the material itself, however, is pretty in line with both my expectations and standard learning path.  I generally expect to feel pretty under water for a decent chunk of time when learning a new skill, at least to the point where I move from **learning to read** the concepts to _**reading to learn**_ the concepts.
 
