@@ -13,6 +13,9 @@
     text-shadow: none;
 
 }
+.text-white{
+    border-color: rgb(235, 235, 235);
+}
 
 .cover-container{
     background-image: url("nycskyline.jpg");
