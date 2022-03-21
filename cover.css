@@ -1,9 +1,20 @@
-.btn-secondary,
-.btn-secondary:hover,
+.btn-secondary{
+    color: #333;
+    border: white;
+    background-color: rgb(235, 235, 235);
+}
+
+.btn-secondary:hover{
+    color: rgb(0, 255, 200);
+    background-color:#333;
+}
 .btn-secondary:focus{
     color: #333;
     text-shadow: none;
 
+}
+.text-white{
+    border-color: rgb(235, 235, 235);
 }
 
 .cover-container{
@@ -11,4 +22,15 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.nav-link {
+    color:rgb(0, 255, 200);
+}
+.nav-link:hover{
+    color:rgb(235, 235, 235)
+}
+
+h3 {
+    color:rgb(0, 255, 200)
 }
